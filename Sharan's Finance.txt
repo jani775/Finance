@@ -1,0 +1,50 @@
+Real estate myths:-
+	good investments -> empty plots, commercial property,etc.,
+	bad -> houses,flats,etc.,
+		returns 6-7% returns for residential properties.
+		Generally,returns on house property sales -> to save taxes -> reinvest into another house-> rules of India.
+		House loan interest is around 9-10% in India-> in USA 1.5-2%.
+		
+Other myths:-
+	FD after post tax will give around 4.5-5% returns.
+	Life Insurance policy expiring will give around 4-5% returns before tax.
+	Get a separate health insurance along with company insurance.
+	
+Invest early -> not late.
+
+
+Calculate FIRE -> Financial Independence Retire Early Number.
+Check SIP calculator -> scripbox.com
+
+Buying a house or rent a house:-
+
+	EMI is not constant -> it also increases.
+	down payment -> money from pockets which bank does not give which will be around 20%
+	
+Asset allocation:-
+	
+	Many are there so.Divide your goals into 3 categories -> short term , mid term, long term goals.
+	Now, short term goals -> put all in FD, Debt funds.
+		Exception cases -> good at investing in stock market. Then , put around 20% of the value in MF in large cap funds.
+	Medium term goals -> put in 40% equity,60% in debt
+					as the medium term goals change to short term goals -> move the money to debt.
+	Long term goals -> 60% Equity,10%US Equity,10% Debt,5% gold,10% Real Estate,5%Crypto (optional)
+
+5 year average rolling return : 
+	average return over 5 years everyday -> i.e: 1 Jan 2013 - 1 Jan 2018
+expense ration :
+	money given to mf manager.
+upside capture ratio:
+	10 % increase in NIFTY 50 -> x % increase in our fund -> x/10*100 => higher the better
+downside capture ratio:
+	10% decrease in NIFTY 50 -> x% decrease in our fund -> x/10*100 => lower the better
+Mid cap fund -> 60-70% in Mid cap
+			fund manager tries to get extreme money so he will invest in small cap and large cap also.
+Capitalize 	Asset Pricing Model:-
+	Simply, for risk taken a fund needs to returns x% and y% proportionately to the risk.
+	the returns is z% then,
+	alpha is z-x and z-y
+	
+
+Direct Stocks:-
+	* 
